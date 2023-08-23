@@ -1,0 +1,14 @@
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\bin\Debug\kitaplar.exe.config
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\bin\Debug\kitaplar.exe
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\bin\Debug\kitaplar.pdb
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\bin\Debug\EntityFramework.dll
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\bin\Debug\EntityFramework.xml
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.csproj.AssemblyReference.cache
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.Form1.resources
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.Properties.Resources.resources
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.csproj.GenerateResource.cache
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.csproj.CoreCompileInputs.cache
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.csproj.CopyComplete
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.exe
+C:\Users\Rabia\source\repos\kitaplar\kitaplar\obj\Debug\kitaplar.pdb

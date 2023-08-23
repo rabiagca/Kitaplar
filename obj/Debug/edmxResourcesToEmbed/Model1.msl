@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="kitapModelStoreContainer" CdmEntityContainer="kitapEntities">
+    <EntitySetMapping Name="kitabım">
+      <EntityTypeMapping TypeName="kitapModel.kitabım">
+        <MappingFragment StoreEntitySet="kitabım">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="kit_adi" ColumnName="kit_adi" />
+          <ScalarProperty Name="kit_yazar" ColumnName="kit_yazar" />
+          <ScalarProperty Name="okundu_bilgisi" ColumnName="okundu_bilgisi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
